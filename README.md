@@ -33,3 +33,5 @@ Throughout the development of WeShare, several challenges were encountered and o
     User Authentication: Implementing secure and streamlined user authentication without compromising user experience.
     Data Management: Managing complex data relationships and ensuring data integrity within the application.
     User Interface Design: Designing an intuitive and responsive user interface to enhance user experience.
+
+Note: As per school policy, we are not permitted to share the code for this project. However, detailed documentation and insights into the project's development process are provided in this README and the accompanying article.
