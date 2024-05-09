@@ -1,4 +1,6 @@
 # WeShare-Project
+
+**Note:** As per school policy, we are not permitted to share the code for this project. However, detailed documentation and insights into the project's development process are provided in this README and the accompanying article.
 This repo provides documentation of an expense tracker Project
 
 WeShare: A Social Expense Tracker
